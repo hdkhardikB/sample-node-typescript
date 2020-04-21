@@ -3,8 +3,6 @@
 Sample node js server built using trypscript. This is a part of a running project which uses task scheduling also. To make task scheduling work, we've used 
 [Node-agenda](https://github.com/agenda/agenda).
 
-### H3
-
 **Note**: The code is a part of actual running project. This is just to demonstrate the code and acrhitecture, the code may not run.
 
 ## Build Setup
