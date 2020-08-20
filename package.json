@@ -31,7 +31,7 @@
     "@sendgrid/mail": "^6.5.3",
     "agenda": "^2.3.0",
     "aws-sdk": "^2.627.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.1",
     "bookshelf": "^0.10.4",
     "bookshelf-uuid": "^1.0.1",
